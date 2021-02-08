@@ -1,0 +1,14 @@
+﻿/* ここがCSSのコメント */
+
+@charset "UTF-8";
+
+div {
+  color: #ff0000;
+/*  background-color:#4a77ff;*/
+  margin-left:20px;
+  text-align:center;
+}
+span {
+  color: #ffffff;
+  background-color:#0000ff;
+}
